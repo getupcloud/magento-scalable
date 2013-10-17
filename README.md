@@ -45,7 +45,7 @@ Now, commit and push:
     $ git commit -m 'Update secret key' php/app/etc/local.xml.erb
     $ git push
 
-Login to `https://magento-$namespace.rhcloud.com/admin` and change the admin password,
+Login to `https://magento-$namespace.getup.io/admin` and change the admin password,
 as other Magento configurations.
 	
 #### Enable Storage Configuration Media
